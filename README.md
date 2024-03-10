@@ -3,7 +3,7 @@
 I'm a Software Engineer with a deep passion for software testing, cloud computing, and building quality software. I leverage the best practices of Test-Driven Development (TDD) and Behavior-Driven Development (BDD) to create robust and maintainable code. 
 
 ## 🚀 About Me
-I'm a coder, thinker, and an avid learner who believes in the power of automation and efficiency. My journey in the tech world revolves around simplifying complex problems and delivering user-centric solutions.
+I'm an engineer, an innovative thinker, and an avid continuous learner who believes in the power of automation and efficiency. My journey in the tech world revolves around simplifying complex problems and delivering user-centric solutions.
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript.
