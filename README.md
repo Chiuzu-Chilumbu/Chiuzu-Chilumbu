@@ -30,7 +30,7 @@ Previously, I developed a Stack data structure following the same rigorous testi
 I believe in giving back to the community that shapes us. Dive into my [Medium articles](https://medium.com/@chiuzubennychilumbu) where I dissect complexities and share insights on elevating software reliability and beyond.
 
 ## 🌍 Let's Connect
-Whether it's a project collaboration, tech talk, or just a simple 'hello', I'm all ears. Connect with me on [Medium](https://medium.com/@chiuzubennychilumbu) and let's pave the way to a future where technology creates unparalleled value for humanity.
+Whether it's a project collaboration, tech talk, or just a simple 'hello', I'm all ears. Connect with me on [Linkedin](https://www.linkedin.com/in/chiuzuchilumbu/) and let's pave the way to a future where technology creates unparalleled value for humanity.
 
 ---
 
