@@ -9,9 +9,9 @@ An engineer at heart, innovator by practice, and perpetual learner by choice, I 
 Quality, clarity, and efficiency guide my journey through the ever-evolving world of tech. With a solid foundation in **Test-Driven Development (TDD)** and **Behavior-Driven Development (BDD)**, I craft code that not only works but endures and inspires.
 
 ## 🔨 Tools of the Trade
-- **Languages**: Python 🐍, JavaScript
-- **Frameworks/Platforms**: Flask, AWS 
-- **DevOps & Testing**: Postman, Docker, pytest, Selenium
+- **Languages**: Python, JavaScript, SQL, Bash.
+- **Frameworks/Platforms**: Flask, AWS Cloud.
+- **DevOps & Test Automation**: Docker, Postman, Pytest, Selenium
 
 ## 📚 Projects
 
