@@ -11,9 +11,14 @@ Quality, clarity, and efficiency guide my journey through the ever-evolving worl
 ## 🔨 Tools of the Trade
 - **Languages**: Python, JavaScript, SQL, Bash.
 - **Frameworks/Platforms**: Flask, AWS Cloud.
-- **DevOps & Test Automation**: Docker, Postman, Pytest, Selenium
+- **DevOps & Test Automation**: Docker, Postman, Pytest, Selenium.
 
 ## 📚 Projects
+
+### Graph Data Structure with TDD, BDD, and Dynamic Visualization
+Currently, I am focused on developing a Graph Data Structure using Python, leveraging both TDD and BDD to ensure reliability and correctness. This project includes the integration of Flask to create dynamic visualizations of the graph and its operations, such as DFS and BFS. The end goal is to visualize how different algorithms work on graphs in real-time, with the project hosted using GitHub Pages for easy accessibility and interaction.
+
+- [Build Graph With TDD](https://github.com/Chiuzu-Chilumbu/Build_Graph_With_TDD)
 
 ### Queue Data Structure with TDD and BDD
 I extended my experimentation with data structures by implementing a Queue in Python, emphasizing TDD and BDD methodologies. The project is integrated with CI/CD pipelines using GitHub Actions to ensure continuous quality and seamless deployment.
@@ -25,7 +30,6 @@ Previously, I developed a Stack data structure following the same rigorous testi
 
 - [Build Stack With TDD](https://github.com/Chiuzu-Chilumbu/Build_Stack_With_TDD)
 
-
 ## 📖 Sharing Knowledge
 I believe in giving back to the community that shapes us. Dive into my [Medium articles](https://medium.com/@chiuzubennychilumbu) where I dissect complexities and share insights on elevating software reliability and beyond.
 
@@ -35,4 +39,3 @@ Whether it's a project collaboration, tech talk, or just a simple 'hello', I'm a
 ---
 
 Your curiosity, my passion for innovation. Together, let's explore the boundless possibilities of technology.
-
